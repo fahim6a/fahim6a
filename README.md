@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fahim6a
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Java From Scratch
+- 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me ... email me fahimchowdhury010@gmail,com
 
